@@ -1,0 +1,9 @@
+Program to calculate product markup.
+Originally created to calculate furniture markups.
+Two sub files of chairs.txt and tables.txt to carry the product description and wholesale price.
+Add shipping factor to determine 'at my location' cost.
+Add profit, shipping, reupholstery fabric cost
+Computes 4 chair sets, 6 chair sets, with table or only table. 
+Can be customized.
+Also includes gas calcultor for shipping to customer.
+
